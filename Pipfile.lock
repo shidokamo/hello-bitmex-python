@@ -1,0 +1,43 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "a5edbb575882a5934e136ad7258cf2dbd780035f50b6a1fd7293dc34d74af78e"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "bitmex-ws": {
+            "hashes": [
+                "sha256:2db4720a34cdb42aeb1417718876816bdf8fa22fb4951bdc93fc78265cf15f9e",
+                "sha256:39a18f521d34e8c0d5cb1ccb94b75c8147d607cb9cef5e67b5f53da374a1bd11"
+            ],
+            "index": "pypi",
+            "version": "==0.3.1"
+        },
+        "six": {
+            "hashes": [
+                "sha256:3350809f0555b11f552448330d0b52d5f24c91a322ea4a15ef22629740f3761c",
+                "sha256:d16a0141ec1a18405cd4ce8b4613101da75da0e9a7aec5bdd4fa804d0e0eba73"
+            ],
+            "version": "==1.12.0"
+        },
+        "websocket-client": {
+            "hashes": [
+                "sha256:7a40abbd2534c91e667ca6507ccbb30d96816361840ef424dff49b24956fcdae",
+                "sha256:933f6bbf08b381f2adbca9e93d7e7958ba212b42c73acb310b18f0fbe74f3738"
+            ],
+            "version": "==0.46.0"
+        }
+    },
+    "develop": {}
+}
